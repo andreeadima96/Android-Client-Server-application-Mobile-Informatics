@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="operations">
+    <item name="add">add</item>
+    <item name="mul">mull</item>
+    </string-array>
+</resources>
